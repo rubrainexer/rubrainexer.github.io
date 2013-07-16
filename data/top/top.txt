@@ -1,4 +1,4 @@
-brand 6
+brand 8
 Albert 5
 niabios 4
 vp_arth 4
@@ -19,4 +19,4 @@ Wrecker 8
 langrizar 7
 Oxbla 7
 mighty 7
-mixailo 7
+AZis 7
