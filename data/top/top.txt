@@ -1,6 +1,6 @@
-brand 8
+brand 7
 Albert 5
-niabios 4
+niabios 5
 vp_arth 4
 langrizar 3
 bacek66 2
