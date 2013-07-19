@@ -1,5 +1,5 @@
-brand 7
 niabios 6
+brand 6
 Albert 5
 vp_arth 4
 langrizar 3
@@ -16,7 +16,7 @@ brand 13
 Albert 10
 bacek66 10
 AZis 8
-mixailo 8
 langrizar 7
 mighty 7
 Wrecker 7
+Wizard9 7
