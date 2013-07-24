@@ -1,13 +1,13 @@
-brand 8
 niabios 7
+brand 6
 Albert 4
 vp_arth 4
 langrizar 3
 bacek66 2
 MEks 2
 max 1
+Koder 1
 Aleks188 1
-maxat 1
 
 
 theone 15
@@ -17,6 +17,6 @@ bacek66 10
 Albert 9
 AZis 8
 langrizar 7
-emerald 7
+Antoha 7
 mighty 7
 Lelushak 6
