@@ -1,5 +1,5 @@
-brand 8
 niabios 7
+brand 7
 Albert 4
 vp_arth 4
 langrizar 3
