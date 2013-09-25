@@ -1,13 +1,13 @@
 brand 14
 niabios 7
 vp_arth 4
-Andrew.kojevnikov 4
+Albert 3
 langrizar 3
-Albert 2
+Andrew.kojevnikov 3
 eee 2
 bacek66 2
+Andar 2
 akhmetov 2
-max 1
 
 
 niabios 16
@@ -15,8 +15,8 @@ brand 16
 theone 14
 Andar 12
 bacek66 10
-kasey 8
+Albert 8
 Andrew.kojevnikov 8
 Margo 7
-Albert 7
 langrizar 7
+dimas 7
