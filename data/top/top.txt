@@ -1,4 +1,4 @@
-brand 14
+brand 13
 niabios 7
 vp_arth 4
 langrizar 3
@@ -13,7 +13,7 @@ akhmetov 2
 niabios 16
 brand 16
 theone 14
-Andar 12
+Andar 13
 bacek66 10
 Andrew.kojevnikov 9
 Albert 8
