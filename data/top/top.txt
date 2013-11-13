@@ -6,7 +6,7 @@ langrizar 3
 eee 3
 Albert 2
 bacek66 2
-ilo 2
+Леонид 2
 Andrew.kojevnikov 2
 
 
@@ -15,8 +15,8 @@ Andar 16
 brand 16
 theone 13
 bacek66 10
-Endion 10
 ilo 9
+Endion 9
 Albert 8
 Andrew.kojevnikov 8
 Sterl 7
