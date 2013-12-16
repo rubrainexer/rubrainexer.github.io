@@ -1,4 +1,4 @@
-brand 18
+brand 17
 niabios 7
 Andar 5
 vp_arth 4
@@ -15,8 +15,8 @@ brand 18
 niabios 16
 theone 13
 bacek66 10
-ilo 9
+ilo 10
+axice 9
 Endion 9
-lavr 8
 Trident 8
 BugFix 8
