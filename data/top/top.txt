@@ -17,6 +17,6 @@ theone 13
 axice 11
 bacek66 10
 ilo 10
+Trident 9
+BugFix 9
 Endion 9
-Trident 8
-BugFix 8
