@@ -1,6 +1,6 @@
 brand 18
+ladislav 8
 niabios 7
-ladislav 7
 Andar 5
 ilo 4
 vp_arth 4
@@ -15,8 +15,8 @@ brand 18
 niabios 16
 theone 13
 ilo 12
+ladislav 12
 axice 11
-ladislav 11
 bacek66 10
 Endion 10
 Albert 8
