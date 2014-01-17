@@ -1,4 +1,4 @@
-brand 17
+brand 18
 ladislav 12
 niabios 7
 Andar 5
@@ -13,7 +13,7 @@ Albert 2
 Andar 18
 brand 18
 niabios 16
-ladislav 16
+ladislav 15
 theone 13
 axice 11
 bacek66 10
