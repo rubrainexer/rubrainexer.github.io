@@ -1,8 +1,8 @@
 brand 18
-ladislav 12
+ladislav 11
 niabios 7
+polorad 5
 Andar 5
-polorad 4
 vp_arth 4
 langrizar 3
 eee 3
