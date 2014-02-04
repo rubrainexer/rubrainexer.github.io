@@ -1,7 +1,7 @@
 brand 18
-ladislav 12
+ladislav 10
 niabios 7
-polorad 5
+polorad 7
 Andar 5
 vp_arth 4
 langrizar 3
@@ -19,4 +19,4 @@ polorad 12
 axice 11
 Андрей Капрару 10
 bacek66 10
-ilo 10
+Endion 10
