@@ -13,10 +13,10 @@ BupycHuk 3
 Andar 18
 brand 18
 niabios 16
-ladislav 16
+ladislav 15
+polorad 14
 theone 13
 axice 11
-polorad 11
 Андрей Капрару 10
 bacek66 10
 Endion 10
