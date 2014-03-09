@@ -1,5 +1,5 @@
 brand 18
-ladislav 15
+ladislav 14
 niabios 7
 polorad 7
 Andar 5
@@ -19,4 +19,4 @@ theone 13
 axice 11
 Андрей Капрару 10
 bacek66 10
-ilo 10
+krandolf14 10
