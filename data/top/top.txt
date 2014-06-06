@@ -1,5 +1,5 @@
 brand 18
-ladislav 16
+ladislav 15
 niabios 7
 polorad 7
 Andar 5
@@ -15,8 +15,8 @@ brand 18
 ladislav 18
 niabios 16
 polorad 16
-vichko 13
 theone 13
+vichko 12
 ксения 12
 krandolf14 12
 axice 11
