@@ -12,7 +12,7 @@ ilo 3
 
 Andar 18
 brand 18
-ladislav 18
+ladislav 17
 niabios 16
 polorad 16
 theone 13
