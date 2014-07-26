@@ -1,5 +1,5 @@
 brand 18
-ladislav 16
+ladislav 17
 polorad 9
 niabios 7
 Andar 5
