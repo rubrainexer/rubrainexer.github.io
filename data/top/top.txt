@@ -1,10 +1,10 @@
 brand 18
-ladislav 14
+ladislav 13
 polorad 9
 niabios 7
+krandolf14 5
 Andar 5
 vichko 4
-krandolf14 4
 vp_arth 4
 langrizar 3
 eee 3
@@ -15,8 +15,8 @@ brand 18
 ladislav 18
 polorad 17
 niabios 16
-krandolf14 13
 theone 13
 vichko 12
+krandolf14 12
 axice 11
 ilo 11
