@@ -1,0 +1,27 @@
+{"frames":{
+
+"background_0":
+{
+	"frame":{"x":0,"y":0,"w":1280,"h":640},
+	"rotated":false,
+	"trimmed":false,
+	"spriteSourceSize":{"x":0,"y":0,"w":1280,"y":640},
+	"sourceSize":{"w":1280,"h":640}
+},
+"background_1":
+{
+	"frame":{"x":0,"y":641,"w":1280,"h":640},
+	"rotated":false,
+	"trimmed":false,
+	"spriteSourceSize":{"x":0,"y":0,"w":1280,"y":640},
+	"sourceSize":{"w":1280,"h":640}
+},
+"background_2":
+{
+	"frame":{"x":0,"y":1282,"w":1280,"h":640},
+	"rotated":false,
+	"trimmed":false,
+	"spriteSourceSize":{"x":0,"y":0,"w":1280,"y":640},
+	"sourceSize":{"w":1280,"h":640}
+}
+}}
