@@ -1,8 +1,8 @@
 brand 18
-ladislav 12
+ladislav 13
 polorad 9
 niabios 7
-krandolf14 6
+krandolf14 5
 Andar 5
 vichko 4
 vp_arth 4
