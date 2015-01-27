@@ -1,5 +1,5 @@
 brand 18
-ladislav 15
+ladislav 13
 polorad 9
 niabios 7
 vichko 4
@@ -16,7 +16,7 @@ ladislav 18
 polorad 17
 niabios 16
 krandolf14 14
+Елена север 13
 theone 13
 vichko 12
-Елена север 12
 tenderesse 11
