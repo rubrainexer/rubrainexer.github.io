@@ -2,10 +2,10 @@ brand 18
 ladislav 13
 polorad 9
 niabios 7
-vichko 4
 Andar 4
 vp_arth 4
 langrizar 3
+vichko 3
 ilo 3
 BupycHuk 3
 
@@ -16,7 +16,7 @@ ladislav 18
 polorad 17
 niabios 16
 krandolf14 15
+Evgenii Onegin 14
 Елена север 14
-Evgenii Onegin 13
 theone 13
-vichko 12
+tenderesse 11
