@@ -4,10 +4,10 @@ polorad 9
 niabios 7
 Andar 4
 vp_arth 4
-Елена север 4
 Ghrom 3
 langrizar 3
 vichko 3
+ilo 3
 
 
 Andar 18
@@ -17,6 +17,6 @@ polorad 17
 niabios 16
 krandolf14 14
 Елена север 14
-Evgenii Onegin 13
 theone 13
+Evgenii Onegin 12
 tenderesse 11
