@@ -1,5 +1,5 @@
 brand 18
-ladislav 13
+ladislav 14
 polorad 9
 niabios 7
 krandolf14 5
@@ -18,5 +18,5 @@ niabios 16
 krandolf14 15
 theone 13
 Evgenii Onegin 12
-Zorik 12
 Елена север 12
+Ghrom 11
