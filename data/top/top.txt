@@ -1,5 +1,5 @@
 brand 18
-ladislav 13
+ladislav 14
 polorad 9
 Evgenii Onegin 8
 niabios 7
