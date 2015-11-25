@@ -11,9 +11,9 @@ Duid 3
 
 
 brand 18
-ladislav 18
 polorad 17
 Andar 17
+ladislav 17
 niabios 16
 Evgenii Onegin 16
 krandolf14 15
