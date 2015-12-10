@@ -1,8 +1,8 @@
 brand 18
-ladislav 13
+ladislav 14
 polorad 9
 niabios 7
-Evgenii Onegin 5
+Evgenii Onegin 4
 Andar 4
 vp_arth 4
 Елена север 4
