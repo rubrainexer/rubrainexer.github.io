@@ -1,13 +1,13 @@
 brand 18
-ladislav 14
+ladislav 13
 polorad 9
 niabios 7
+Evgenii Onegin 6
 Andar 4
 vp_arth 4
 Елена север 4
 Ghrom 3
 langrizar 3
-Evgenii Onegin 3
 
 
 brand 18
