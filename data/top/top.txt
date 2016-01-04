@@ -6,8 +6,8 @@ Andar 4
 vp_arth 4
 Елена север 4
 Ghrom 3
+Duid 3
 langrizar 3
-Evgenii Onegin 3
 
 
 brand 18
@@ -16,7 +16,7 @@ Evgenii Onegin 17
 polorad 17
 Andar 17
 niabios 16
-krandolf14 15
+krandolf14 13
 theone 13
 Елена север 12
 Ghrom 11
