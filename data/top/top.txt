@@ -7,7 +7,7 @@ Andar 4
 vp_arth 4
 Елена север 4
 Ghrom 3
-langrizar 3
+Duid 3
 
 
 brand 18
