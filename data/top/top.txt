@@ -4,8 +4,8 @@ polorad 9
 niabios 7
 Evgenii Onegin 6
 krandolf14 6
+Елена север 6
 Duid 5
-Елена север 5
 Andar 4
 vp_arth 4
 
@@ -18,5 +18,5 @@ Andar 17
 niabios 16
 krandolf14 16
 theone 13
+Елена север 12
 Ghrom 11
-tenderesse 11
