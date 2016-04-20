@@ -1,7 +1,7 @@
 brand 18
 ladislav 15
-Duid 9
 polorad 9
+Duid 7
 niabios 7
 Evgenii Onegin 7
 krandolf14 5
@@ -18,5 +18,5 @@ Andar 17
 niabios 16
 krandolf14 15
 theone 13
-Duid 12
 Ghrom 11
+tenderesse 11
