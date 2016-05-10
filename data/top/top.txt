@@ -7,7 +7,7 @@ Duid 5
 krandolf14 5
 Andar 4
 vp_arth 4
-Ghrom 3
+Елена север 4
 
 
 brand 18
@@ -19,4 +19,4 @@ niabios 16
 krandolf14 15
 Duid 13
 theone 13
-Ghrom 11
+Елена север 12
