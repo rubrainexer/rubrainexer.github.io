@@ -1,8 +1,8 @@
 brand 18
 ladislav 16
 polorad 9
-Duid 7
 niabios 7
+Duid 6
 Evgenii Onegin 6
 krandolf14 6
 Andar 4
