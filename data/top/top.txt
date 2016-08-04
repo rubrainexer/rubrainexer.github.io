@@ -3,8 +3,8 @@ ladislav 16
 polorad 9
 Duid 7
 niabios 7
-Evgenii Onegin 6
 krandolf14 6
+Evgenii Onegin 5
 Andar 4
 vp_arth 4
 Ghrom 3
@@ -17,6 +17,6 @@ polorad 17
 Andar 17
 niabios 16
 krandolf14 16
+Duid 13
 Елена север 13
 theone 13
-Duid 12
