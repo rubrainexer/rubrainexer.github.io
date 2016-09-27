@@ -1,8 +1,8 @@
 brand 18
 ladislav 16
+glaz-len 9
 polorad 9
 niabios 7
-glaz-len 7
 Duid 6
 krandolf14 6
 Evgenii Onegin 5
