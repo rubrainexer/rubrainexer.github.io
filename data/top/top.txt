@@ -4,8 +4,8 @@ glaz-len 10
 polorad 9
 niabios 7
 light 7
+Duid 6
 krandolf14 6
-Duid 5
 Evgenii Onegin 5
 Andar 4
 
