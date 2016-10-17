@@ -1,8 +1,8 @@
 brand 18
 ladislav 16
 polorad 9
+light 9
 glaz-len 8
-light 8
 niabios 7
 Duid 6
 krandolf14 6
