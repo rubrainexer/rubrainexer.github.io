@@ -5,7 +5,7 @@ polorad 9
 niabios 7
 glaz-len 7
 krandolf14 6
-Duid 5
+Duid 4
 Andar 4
 vp_arth 4
 
