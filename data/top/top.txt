@@ -1,6 +1,6 @@
 brand 18
 ladislav 16
-light 12
+light 13
 polorad 9
 niabios 7
 glaz-len 7
