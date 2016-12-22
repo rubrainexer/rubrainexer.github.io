@@ -4,8 +4,8 @@ light 14
 polorad 9
 niabios 7
 glaz-len 7
+Duid 6
 krandolf14 6
-Duid 5
 Andar 4
 vp_arth 4
 
@@ -19,4 +19,4 @@ light 17
 Andar 17
 niabios 16
 krandolf14 15
-norbert 13
+norbert 14
