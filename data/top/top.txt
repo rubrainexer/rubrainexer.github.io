@@ -6,8 +6,8 @@ niabios 7
 glaz-len 7
 Duid 6
 krandolf14 6
+mill 5
 Andar 4
-vp_arth 4
 
 
 glaz-len 18
@@ -18,5 +18,5 @@ polorad 17
 light 17
 Andar 17
 niabios 16
+mill 15
 krandolf14 15
-norbert 14
