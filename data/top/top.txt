@@ -1,13 +1,13 @@
 brand 18
 ladislav 16
 light 15
-mill 9
 polorad 9
+mill 8
 niabios 7
 glaz-len 7
 krandolf14 6
+Duid 4
 Andar 4
-vp_arth 4
 
 
 glaz-len 18
