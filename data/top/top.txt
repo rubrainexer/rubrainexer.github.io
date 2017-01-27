@@ -3,8 +3,8 @@ ladislav 16
 light 15
 polorad 9
 niabios 7
-mill 7
 glaz-len 7
+mill 6
 krandolf14 6
 Duid 4
 Andar 4
