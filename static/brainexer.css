@@ -1,0 +1,82 @@
+#root :focus {
+    outline: none !important;
+}
+
+[data-reactroot] {
+	background-color:lightgray;
+	justify-content:center;
+}
+
+.android {
+	font-weight:bold;
+	Color:#7CB342 !important;
+}
+
+.navbar{
+	/* background-color: #5eafe0 !important; */
+	background-color: #f6f6f6 !important;
+}
+
+.brainexer_sprite {display:inline-block; overflow:hidden; background-repeat: no-repeat;background-image:url(brainexer.png);}
+
+.brainexer_icon_android {width:256px; height:256px; background-position: -10px -10px}
+.brainexer_icon_challenge {width:256px; height:256px; background-position: -286px -10px}
+.brainexer_icon_check {width:256px; height:256px; background-position: -562px -10px}
+.brainexer_icon_coin {width:256px; height:256px; background-position: -838px -10px}
+.brainexer_icon_fb {width:256px; height:256px; background-position: -1114px -10px}
+.brainexer_icon_feedback {width:256px; height:256px; background-position: -1390px -10px}
+.brainexer_icon_focus {width:256px; height:256px; background-position: -1666px -10px}
+.brainexer_icon_hard {width:256px; height:256px; background-position: -10px -286px}
+.brainexer_icon_leaderboard {width:256px; height:256px; background-position: -286px -286px}
+.brainexer_icon_levels {width:256px; height:256px; background-position: -562px -286px}
+.brainexer_icon_levelup {width:256px; height:256px; background-position: -838px -286px}
+.brainexer_icon_lock {width:256px; height:256px; background-position: -1114px -286px}
+.brainexer_icon_math {width:256px; height:256px; background-position: -1390px -286px}
+.brainexer_icon_memory {width:256px; height:256px; background-position: -1666px -286px}
+.brainexer_icon_neuron {width:256px; height:256px; background-position: -10px -562px}
+.brainexer_icon_practice {width:256px; height:256px; background-position: -286px -562px}
+.brainexer_icon_recommend {width:256px; height:256px; background-position: -562px -562px}
+.brainexer_icon_speed {width:256px; height:256px; background-position: -838px -562px}
+.brainexer_icon_think {width:256px; height:256px; background-position: -1114px -562px}
+.brainexer_icon_training {width:256px; height:256px; background-position: -1390px -562px}
+.brainexer_icon_unlock {width:256px; height:256px; background-position: -1666px -562px}
+.brainexer_icon_vk {width:256px; height:256px; background-position: -10px -838px}
+.brainexer_item_1_0 {width:256px; height:256px; background-position: -286px -838px}
+.brainexer_item_1_1 {width:256px; height:256px; background-position: -562px -838px}
+.brainexer_item_1_2 {width:256px; height:256px; background-position: -838px -838px}
+.brainexer_item_1_3 {width:256px; height:256px; background-position: -1114px -838px}
+.brainexer_item_1_4 {width:256px; height:256px; background-position: -1390px -838px}
+.brainexer_item_1_5 {width:256px; height:256px; background-position: -1666px -838px}
+.brainexer_item_1_6 {width:256px; height:256px; background-position: -10px -1114px}
+.brainexer_item_1_7 {width:256px; height:256px; background-position: -286px -1114px}
+.brainexer_item_1_8 {width:256px; height:256px; background-position: -562px -1114px}
+.brainexer_item_4_0 {width:256px; height:256px; background-position: -838px -1114px}
+.brainexer_item_4_1 {width:256px; height:256px; background-position: -1114px -1114px}
+.brainexer_item_4_2 {width:256px; height:256px; background-position: -1390px -1114px}
+.brainexer_item_4_3 {width:256px; height:256px; background-position: -1666px -1114px}
+.brainexer_item_4_4 {width:256px; height:256px; background-position: -10px -1390px}
+.brainexer_item_4_5 {width:256px; height:256px; background-position: -286px -1390px}
+.brainexer_item_4_6 {width:256px; height:256px; background-position: -562px -1390px}
+.brainexer_item_4_7 {width:256px; height:256px; background-position: -838px -1390px}
+.brainexer_item_4_8 {width:256px; height:256px; background-position: -1114px -1390px}
+.brainexer_rank_0 {width:256px; height:256px; background-position: -1390px -1390px}
+.brainexer_rank_1 {width:256px; height:256px; background-position: -1666px -1390px}
+.brainexer_rank_10 {width:256px; height:256px; background-position: -286px -1942px}
+.brainexer_rank_11 {width:256px; height:256px; background-position: -562px -1942px}
+.brainexer_rank_12 {width:256px; height:256px; background-position: -838px -1942px}
+.brainexer_rank_13 {width:256px; height:256px; background-position: -1114px -1942px}
+.brainexer_rank_14 {width:256px; height:256px; background-position: -1390px -1942px}
+.brainexer_rank_15 {width:256px; height:256px; background-position: -1666px -1942px}
+.brainexer_rank_16 {width:256px; height:256px; background-position: -10px -2218px}
+.brainexer_rank_17 {width:256px; height:256px; background-position: -286px -2218px}
+.brainexer_rank_18 {width:256px; height:256px; background-position: -562px -2218px}
+.brainexer_rank_19 {width:256px; height:256px; background-position: -838px -2218px}
+.brainexer_rank_2 {width:256px; height:256px; background-position: -10px -1666px}
+.brainexer_rank_20 {width:256px; height:256px; background-position: -1114px -2218px}
+.brainexer_rank_3 {width:256px; height:256px; background-position: -286px -1666px}
+.brainexer_rank_4 {width:256px; height:256px; background-position: -562px -1666px}
+.brainexer_rank_5 {width:256px; height:256px; background-position: -838px -1666px}
+.brainexer_rank_6 {width:256px; height:256px; background-position: -1114px -1666px}
+.brainexer_rank_7 {width:256px; height:256px; background-position: -1390px -1666px}
+.brainexer_rank_8 {width:256px; height:256px; background-position: -1666px -1666px}
+.brainexer_rank_9 {width:256px; height:256px; background-position: -10px -1942px}
